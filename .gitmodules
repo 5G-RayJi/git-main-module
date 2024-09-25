@@ -1,0 +1,3 @@
+[submodule "ref/git-sub-module"]
+	path = ref/git-sub-module
+	url = https://github.com/5G-RayJi/git-sub-module.git
